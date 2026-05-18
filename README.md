@@ -16,8 +16,9 @@ Estudante de tecnologia apaixonado por desenvolvimento e boas práticas de progr
 
 ## 🔗 Links
 
-- 🌐 [Minha GitHub Page](https://fjorsuran.github.io/meu-portfolio-)
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 🌐 [https://fjorsuran.github.io/meu-portfolio-)
+- 💼 [LinkedIn](www.linkedin.com/in/felipe-jorsuran-4aabb239a
+
 
 ## 📬 Contato
 
